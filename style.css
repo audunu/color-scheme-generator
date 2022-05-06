@@ -63,3 +63,14 @@ button {
 .footer {
     display: flex;
 }
+
+.popup {
+    display: none;
+    position: absolute;
+    color: black;
+    padding: 4px;
+    border: solid 1px #ddd;
+    background: white;
+    text-align: center;
+    width: 10%;
+  }
